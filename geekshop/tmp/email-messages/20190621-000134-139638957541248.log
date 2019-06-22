@@ -1,0 +1,12 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Verify
+From: iamdanteonline@gmail.com
+To: myuser4@test.com
+Date: Thu, 20 Jun 2019 19:01:34 -0000
+Message-ID: 
+ <156105729455.19339.15039037616208638644@dante-Lenovo-ideapad-300-17ISK>
+
+Для подтверждения перейдите по ссылке http://localhost:8000/auth/verify/myuser4@test.com/b0f3b8a4f14d6e19ea57bb9a2f5a00e0eb64a657/
+-------------------------------------------------------------------------------
